@@ -6,7 +6,7 @@ The image provides SSH at port *22* and a **VOLUME** at */git*
 
 ## Tags
 
-### latest
+### gdbgui (latest)
 
 This container provides the [gdbgui](https://gdbgui.com/) as remote server for debugging.
 
