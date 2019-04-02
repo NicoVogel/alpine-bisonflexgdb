@@ -29,6 +29,8 @@ VOLUME /git
 
 COPY entrypoint.sh /entrypoint.sh
 
+RUN chmod 777 /entrypoint.sh
+
 EXPOSE 22 5000
 
 CMD ["/entrypoint.sh"]
