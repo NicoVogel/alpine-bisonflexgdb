@@ -20,7 +20,7 @@ exposes the VNC at port 5900
 
 ## Example Powershell script
 
-The script runs a new container or stats an existing container.
+The script runs a new container or starts an existing one.
 
 ````Powershell
 
